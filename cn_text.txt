@@ -1,0 +1,18 @@
+ 
+A web server is software and hardware that uses HTTP (Hypertext Transfer Protocol) and other protocols to respond to client requests made over the World Wide Web. 
+The main job of a web server is to display website content through storing, processing and delivering webpages to users.
+HTTP is the protocol used to transfer data over the web. Stands for "Hypertext Transfer Protocol." 
+It is part of the Internet protocol suite and defines commands and services used for transmitting webpage data.
+HTTP uses a server-client model.
+A client, for example, may be a home computer, laptop, or mobile deviceAs a request-response protocol, HTTP gives users a way to interact with web resources such as HTML files by transmitting hypertext messages between clients and servers.
+HTTP clients generally use Transmission Control Protocol (TCP) connections to communicate with servers.
+HTTP is a protocol for fetching resources such as HTML documents.
+It is the foundation of any data exchange on the Web and it is a client-server protocol, which means requests are initiated by the recipient, usually the Web browser.
+Anatomy of an HTTP request
+A request line.
+A set of header fields.
+A body, which is optional.
+An HTTP server is software that understands URLs (web addresses) and HTTP (the protocol your browser uses to view webpages).
+An HTTP server can be accessed through the domain names of the websites it stores, and it delivers the content of these hosted websites to the end user's device.
+A webserver in Python can be setup in two ways. Python supports a webserver out of the box. 
+You can start a web server with a one liner. But you can also create a custom web server which has unique functionality.

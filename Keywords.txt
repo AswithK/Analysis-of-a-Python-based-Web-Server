@@ -1,0 +1,11 @@
+PCA - The Principal Component Analysis is a popular unsupervised learning technique for reducing the dimensionality of data. It increases interpretability yet, at the same time, it minimizes information loss. It helps to find the most significant features in a dataset and makes the data easy for plotting in 2D and 3D.
+
+ICA - Independent Component Analysis (ICA) is a machine learning approach in which a multivariate signal is decomposed into distinct non-Gaussian signals. It focuses on independent sources. Since the mixing processing is unknown, ICA is commonly used as a black box.
+
+ICR - Intelligent character recognition (ICR) is an advanced optical character recognition (OCR). Put simply, it's a system that allows handwritten characters to be recognised and converted by a computer into computer-readable text.
+
+Manual outlier - Outliers are extreme values that fall a long way outside of the other observations. 
+
+IQR -  Interquartile Range is to measure the variability of the distribution of data that contains outliers. IQR does not get affected by outliers. Hence, it is ideal to use IQR to detect the outliers for it is a value that lies in the middle of a dataset distribution.
+
+Cross validation - Cross-validation is a technique for evaluating ML models by training several ML models on subsets of the available input data and evaluating them on the complementary subset of the data. Use cross-validation to detect overfitting, ie, failing to generalize a pattern.
